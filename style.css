@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -705,8 +705,9 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.4em;
+    font-weight: bold;
 }
 
 h3 {
@@ -771,15 +772,16 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #A94442;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
+    font-size: 22px;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #A94442;
     color: #FFFFFF!important;
 }
 
@@ -822,7 +824,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.png");
 }
 
 @media (max-width: 1024px) {
@@ -1042,7 +1044,7 @@ h4 {
 }
 
 .title {
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
 }
 
