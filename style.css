@@ -523,6 +523,7 @@ button {
 
 .scrollToTop span {
     margin-top: 6px;
+    color: #FFFFFF;
 }
 
 .showScrollTop {
@@ -584,6 +585,8 @@ a[data-lightbox]:hover img {
     left: 15px;
     right: 15px;
     bottom: 5px;
+    text-align: center;
+    font-size: 16px;
 }
 
 .close-lightbox {
@@ -710,8 +713,17 @@ h2 {
     font-weight: bold;
 }
 
+.ctc-address {
+    font-size: 16px;
+    text-align: center;
+    line-height: 30px;
+}
+
+p{
+    font-size: 16px;
+}
 h3 {
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -741,7 +753,7 @@ h4 {
 }
 
 .portfolio-thumb {
-    margin-bottom: 24px;
+    margin: auto;
 }
 
 .portfolio-row {
