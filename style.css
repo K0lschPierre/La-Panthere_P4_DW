@@ -438,6 +438,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-size: 19px;
 }
 
 .mg-lg {
@@ -680,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -719,9 +720,6 @@ h2 {
     line-height: 30px;
 }
 
-p{
-    font-size: 16px;
-}
 h3 {
     font-size: 18px;
     text-transform: uppercase;
@@ -789,7 +787,6 @@ h4 {
 
 .tc-white {
     color: #FFFFFF!important;
-    font-size: 22px;
 }
 
 .btn-atomic-tangerine {
